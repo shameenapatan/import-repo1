@@ -1,0 +1,1 @@
+Thi s is my second text file in repository "test.git"
